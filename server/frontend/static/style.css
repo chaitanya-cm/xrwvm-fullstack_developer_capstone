@@ -124,3 +124,42 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contactus-img{
+    position: absolute;
+    border-right: #000;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container1 {
+    width: 80%;
+    height: 50%;
+    margin: 0 auto;
+    border: 2px #000 ;
+}
+.top-image {
+    /* width: 70%;
+    height: 70%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 70%;
+    width: 70%;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.content img {
+    width: 50%;
+    height: auto;
+}
+.contact-info {
+    width: 48%;
+}
